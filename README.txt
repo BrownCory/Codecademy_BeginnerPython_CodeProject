@@ -1,0 +1,2 @@
+The python script censor_dispenser censors words from 4 example emails to produce censored versions. 
+This project follows a Codecademy coding challenge for string methods within the "Learn Python 3" course.
